@@ -1,0 +1,11 @@
+C3P0:开源的JDBC连接池，支持JDBC3规范和JDBC2规范。但是单线程，性能比较差，适用于比较小的项目
+DBCP:Apache开发的java数据库连接池项目，
+BoneCP:相对高效、开源、免费的数据库连接池。
+Druid:与java语言兼容性比较好的数据库连接池，源码在gibhub上
+
+
+Thymeleaf:香
+    a、动静结合，Thymeleaf在有网络和没有网络的环境下都可运行有，可以直接通过浏览器打开，就能看到页面效果。
+    b、开箱即用，springboot提供了对thymeleaf的支持，也可以直接套用模板实现与JSTL,OGNL类似效果。
+    c、多方言支持：Thymeleaf提供了spring标准方言和一个与springmvc完美集成的可选模块。
+    d、与springboot完美整合，我们可以像之前jsp一样使用thymeleaf，代码几乎没有任何区别
